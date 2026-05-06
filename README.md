@@ -1,4 +1,4 @@
-# lambda-dashboard-generator
+# Project # 21 - lambda-dashboard-generator
 
 A Python 3 CLI that auto-generates a CloudWatch dashboard covering every Lambda function in your AWS account, grouped by service. Creates, updates, or deletes a single dashboard named `LambdaPerformanceMonitoring` from a one-shot script, no manual widget editing.
 
